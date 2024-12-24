@@ -29,7 +29,7 @@ a {
     width: 272px;
     height: 560px;
     left: 188px;
-    top: 80px;
+    top: 10px;  /* Adjusted to shift text higher */
     position: absolute;
 }
 
